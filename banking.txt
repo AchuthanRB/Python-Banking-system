@@ -1,0 +1,4 @@
+82979: {'name': 'Achuthan', 'age': 23, 'city': 'Madurai'}
+23001: {'name': 'Bharathi', 'age': 22, 'city': 'Chennai'}
+84748: {'name': 'vikky', 'age': 30, 'city': 'Chennai'}
+93197: {'name': 'vikky', 'age': 30, 'city': 'Mysuru'}
